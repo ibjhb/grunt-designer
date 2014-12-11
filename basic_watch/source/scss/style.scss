@@ -1,0 +1,20 @@
+.basic {
+	color: red;
+
+	.larger {
+		font-size: 32px;
+	}
+
+	.smaller {
+		font-size : 10px;
+
+		.green {
+			color: green;
+		}
+
+		.purple {
+			color: purple;
+		}
+	}
+}
+

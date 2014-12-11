@@ -1,0 +1,12 @@
+{
+  "name": "basic_watch",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt": "~0.4.5"
+  }
+}
