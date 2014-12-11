@@ -26,3 +26,9 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+atlassian-ide-plugin.xml
+*.iml
+.idea
+.DS_Store
+.sass-cache
